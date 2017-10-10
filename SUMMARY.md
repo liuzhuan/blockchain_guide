@@ -13,7 +13,7 @@
   * [关键技术和挑战](intro/tech.md)
   * [趋势与展望](intro/vision.md)
   * [小结](intro/summary.md)
-* [ 典型应用场景](scenario/README.md)
+* [典型应用场景](scenario/README.md)
   * [金融服务](scenario/trading.md)
   * [征信和权属管理](scenario/trust.md)
   * [资源共享](scenario/sharing.md)
